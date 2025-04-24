@@ -19,7 +19,9 @@ EX) 7조_팀프로젝트 계획 초안.txt
 
 팀원들의 이름과 Github 계정에 대한 리스트
 
-Github Repository URL
+Github Repository URL : 
+
+https://github.com/TheNewBoro/Team13.git
 
 
 *규칙*
